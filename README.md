@@ -14,4 +14,7 @@
   Other tools, such as loss function, index calcuation, is written in test.py and 
   utils.py. wider.py is to read the raw data content and classification labels.
 
+  The created new_GAU Block is the variety of GAU(Gated Attention Unit), aims to 
+  filter the information flow and build the global modeling.
+
 ///
